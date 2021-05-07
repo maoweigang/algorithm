@@ -7,6 +7,11 @@
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/algorithm-novice" />
         <option name="gradleHome" value="$PROJECT_DIR$/../../tools/gradle-6.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/algorithm-novice" />
+          </set>
+        </option>
         <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
     </option>
