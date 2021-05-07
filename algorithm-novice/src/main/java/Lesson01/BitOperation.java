@@ -3,6 +3,8 @@ package Lesson01;
 public class BitOperation {
     public static void main(String[] args){
         print(Integer.MIN_VALUE);
+        print(Integer.MAX_VALUE);
+
     }
 
     public static void print(int num){
