@@ -26,7 +26,7 @@ public class Random01 {
     }
 
 
-    //整数等随机
+    //整数等随机d
     public static void random1(int value) {
         int totalTimes = 50000;
         int count = 0;
