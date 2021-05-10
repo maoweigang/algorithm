@@ -1,4 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.system.id="GRADLE" type="JAVA_MODULE" version="4">
-  <component name="ExternalSystem" linkedProjectPath="$MODULE_DIR$/../../algorithm-novice" rootProjectPath="$MODULE_DIR$/../../algorithm-novice" />
-</module>
+<module external.system.id="GRADLE" type="JAVA_MODULE" version="4" />
