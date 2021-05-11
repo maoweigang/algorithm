@@ -71,18 +71,19 @@ public class ReverserList {
     }
 
 
-    public static Node reverserDoubleList(DoubleNode head){
+    public static DoubleNode  reverserDoubleList(DoubleNode head){
         if(head==null||head.next==null){
             return head;
         }
-        Node next;
-        Node pre=null;
+        DoubleNode next;
+        DoubleNode pre=null;
 
         do{
             //把下一个节点记录
             next = head.next;
             //节点的下一个节点指向上一个节点
             head.next=pre;
+            head.last=next;
             //前一节点后移动一个
             pre=head;
             //节点移到下一个节点
